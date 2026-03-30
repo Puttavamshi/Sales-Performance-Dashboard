@@ -43,4 +43,4 @@ Use slicers (Year, Category, Region) to filter data
 Explore visuals to analyze trends and insights
 
 9. Screenshot : sales_dashboard.png
-Example : Dashboard preview - https://github.com/Puttavamshi/Sales-Performance-Dashboard/blob/main/Snapshot%20Sales%20PB.png
+Example : [Dashboard preview].(https://github.com/Puttavamshi/Sales-Performance-Dashboard/blob/main/Snapshot%20Sales%20PB.png)
